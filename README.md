@@ -1,4 +1,4 @@
-MRUNAL SOMANKAR
+
 --
 ### Functions
 A simple weather application that displays weather information
